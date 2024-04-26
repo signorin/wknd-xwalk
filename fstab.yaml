@@ -2,4 +2,4 @@ mountpoints:
   /:
     url: https://author-p127374-e1240195.adobeaemcloud.com/bin/franklin.delivery/signorin/wknd-xwalk/main
     type: markup
-    suffix: ".html?wcmmode=disabled"
+    suffix: ".html"
