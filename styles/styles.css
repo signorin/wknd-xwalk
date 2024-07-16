@@ -13,7 +13,7 @@
  :root {
   /* colors */
   --color-yellow: #9D2235;
-  --link-color: #FFFFFF;
+  --link-color: black;
   --link-hover-color: black;
   --background-color: #fff;
   --overlay-background-color: #eee;
