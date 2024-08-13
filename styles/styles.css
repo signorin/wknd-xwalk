@@ -157,7 +157,7 @@ pre {
 /* buttons */
 
 a.button:any-link, button {
-  color: #FFF(--button-text-color);
+  color: #FFF;
   background-color: var(--button-background-color);
   text-transform: uppercase;
   font-size: 14px;
