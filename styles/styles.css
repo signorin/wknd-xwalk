@@ -158,7 +158,7 @@ pre {
 
 a.button:any-link, button {
   color: #FFF;
-  background-color: #0A2972;
+  background-color: #FDC846;
   text-transform: uppercase;
   font-size: 14px;
   padding: var(--button-padding);
