@@ -160,6 +160,7 @@ a.button:any-link, button {
   color: #000000;
   background-color: #FFFFFF;
   text-transform: uppercase;
+  border-color: #000000;
   font-size: 14px;
   padding: var(--button-padding);
   font-weight: 600;
